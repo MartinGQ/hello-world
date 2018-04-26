@@ -1,2 +1,4 @@
 # hello-world
-日常记录
+Daily record-01
+hi,Git.
+I am very honored to join GitHub!
