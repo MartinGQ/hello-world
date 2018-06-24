@@ -1,4 +1,4 @@
 # hello-world
-Daily record-01
+register record
 
 I am very honored to join GitHub!
